@@ -1,6 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=2000&pause=800&color=39FF14&center=true&vCenter=true&width=800&lines=Hey%2C+how+are+you%3F...;I'm+Pavan+S" alt="Typing SVG" />
-</h1>
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5735546.png" width="806" height="98" alt="HI im pavan s" /></a>
+
 
 
 # 💫 About Me:
@@ -25,4 +24,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Pavan03062006&icon=10&color=13)](https://visitcount.itsvg.in)
+
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5735547.png" width="2072" height="174" alt="Feel Free to watch the projects" /></a>
 
