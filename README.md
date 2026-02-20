@@ -2,8 +2,6 @@
 
 
 
-# 💫 About Me:
-👋 Hi, I’m @Pavan03062006<br>👀 I’m interested in coding<br>🌱 I’m currently learning Information Technology<br>😄 Pronouns: He/Him<br>⚡ Fun fact: A cloud weighs around a million tonnes.
 
 
 ## 🌐 Socials:
