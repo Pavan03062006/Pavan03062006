@@ -1,5 +1,8 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5735546.png" width="806" height="98" alt="HI im pavan s" /></a>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="pavan-s-1796b6301" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/pavan-s-1796b6301?trk=profile-badge">Pavan S</a></div>
+              
+
 
                                                                                              
                                                                                              
