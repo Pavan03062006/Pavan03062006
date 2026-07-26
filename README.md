@@ -1,1 +1,0 @@
-![Top Languages](https://vani-stats.vercel.app/api?username=Pavan03062006&theme=tokyonight)
